@@ -216,3 +216,12 @@ nav a {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.actors h2 {
+    padding-top: 10px
+}
+
+.actors h3 {
+    color: #ff0000;
+    font-size: 20px
+}
