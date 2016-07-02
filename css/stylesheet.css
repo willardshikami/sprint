@@ -52,3 +52,39 @@ table {
   Body
   ========================================
 */
+
+body {
+    background-image: url("../images/landing.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+  
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+.main-header h1 {
+    font-weight: 800;
+    font-style: bold;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main-header h2 {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+
+.main-header h3 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
