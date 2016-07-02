@@ -140,11 +140,12 @@ header img {
 */ 
 
 nav {
-    
+    padding: 50px;
+    text-align: center;
+    word-spacing: 20px;
 }
 
 ul li{
     display: inline;
-    padding: 50px;
-    text-align: center
+    
 }
