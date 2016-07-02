@@ -130,3 +130,21 @@ header img {
     width: 3%;
     padding-left: 10px;
 }
+
+
+    
+/*
+  ========================================
+  Navigator
+  ========================================
+*/ 
+
+nav {
+    
+}
+
+ul li{
+    display: inline;
+    padding: 50px;
+    text-align: center
+}
