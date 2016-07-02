@@ -140,7 +140,9 @@ header img {
 */ 
 
 nav {
-    padding: 50px;
+    background: #ddd;
+    font-size: 20px;
+    padding: 40px;
     text-align: center;
     word-spacing: 20px;
 }
@@ -148,4 +150,35 @@ nav {
 ul li{
     display: inline;
     
+}
+
+.movie-info h2 {
+    font-size: 45px;
+    padding: 10px;
+    text-align: center;
+}
+
+.movie-info p {
+    font-size: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+/*
+  ========================================
+  Links
+  ========================================
+*/ 
+
+nav a {
+    text-decoration: none;
+}
+
+/*
+  ========================================
+  Movie Info
+  ========================================
+*/ 
+
+.movie-info {
+    padding: 50px;
 }
