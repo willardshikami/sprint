@@ -59,8 +59,8 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-    color: #ff0000;
-    font-family: "raleway"
+    color: #fff;
+    font-family: "Montserrat"
 }
 
   
@@ -76,6 +76,7 @@ header{
     }
 
 .main-header h1 {
+    color:#000;
     font-weight: 800;
     font-style: bold;
     font-size: 70px;
@@ -86,7 +87,7 @@ header{
 .main-header h2 {
     font-size: 60px;
     text-align: center;
-    padding-top: 280px;
+    padding-top: 200px;
 }
 
 
