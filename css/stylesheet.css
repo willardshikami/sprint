@@ -101,6 +101,47 @@ header{
 }
 
 
+
+.movie-info h2 {
+    font-size: 45px;
+    padding: 10px;
+    text-align: center;
+}
+
+.movie-info p {
+    font-size: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.main-actors h1 {
+    font-size: 45px;
+    padding: 30px;
+    text-align: center;
+}
+
+.actors h2 {
+    padding-top: 10px
+}
+
+.actors h3 {
+    color: #ff0000;
+    font-size: 20px
+}
+
+
+footer p{
+    color: #ff0000;
+    padding: 50px;
+    text-align: center;
+}
+    
+/*
+  ========================================
+  Buttons
+  ========================================
+*/
+
 .btn {
     background: #ff0000;
     border-radius: 5px;
@@ -155,17 +196,7 @@ ul li{
     
 }
 
-.movie-info h2 {
-    font-size: 45px;
-    padding: 10px;
-    text-align: center;
-}
 
-.movie-info p {
-    font-size: 20px;
-    padding-right: 200px;
-    padding-left: 200px;
-}
 /*
   ========================================
   Links
@@ -197,15 +228,11 @@ nav a {
 }
 
 .grid {
-  margin: 0 auto;
-  width: 960px;
-}
-
-
-.grid {
     padding-left: 15px;
     padding-right: 15px;
-    padding-bottom: 15px
+    padding-bottom: 15px;
+    margin: 0 auto;
+    width: 960px;
 }
 
 
@@ -217,11 +244,4 @@ nav a {
     padding-right: 15px;
 }
 
-.actors h2 {
-    padding-top: 10px
-}
 
-.actors h3 {
-    color: #ff0000;
-    font-size: 20px
-}
