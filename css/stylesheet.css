@@ -259,11 +259,30 @@ nav a:hover {
 
 
 .icons img {
-    padding-left: 
+    padding-left: ;
     text-align: center;
 }
 
 
+/*
+  ========================================
+  countdown clock
+  ========================================
+*/
 
-
-
+@media only screen and (max-width: 480px) {
+	.col { 
+		margin: 1% 0 1% 0%;
+        
+	}
+    
+    .movie-info p {
+    font-family: "lato";
+    line-height: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    padding-right: inherit;
+    padding-left: inherit;
+    text-align: center;
+}
+}
