@@ -226,9 +226,6 @@ nav a:hover {
   ========================================
 */ 
 
-.movie-info {
-    padding: 50px;
-}
 
 /*
   ========================================
@@ -269,6 +266,7 @@ nav a:hover {
   countdown clock
   ========================================
 */
+
 
 @media only screen and (max-width: 480px) {
 	.col { 
